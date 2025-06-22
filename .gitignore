@@ -1,1 +1,3 @@
 .deps/remix-tests/
+artifacts/
+.states/
